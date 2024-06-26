@@ -16,7 +16,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 ###
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtNnZueXFlbWJydHVlMHR2YW96aGYxNjE0N3k1ajZ4dzR4MnplNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+  <img height="150" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtNnZueXFlbWJydHVlMHR2YW96aGYxNjE0N3k1ajZ4dzR4MnplNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 ###
