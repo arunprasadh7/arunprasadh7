@@ -1,6 +1,6 @@
-##<h2> Hey there! 👋 I'm Arun Prasadh!</h2>
+# Hey there! 👋 I'm Arun Prasadh!
 
-### Fullstack Developer Extraordinaire 🌐
+## Fullstack Developer Extraordinaire 🌐 Web3 🚀 & Crypto Enthusiast 💎
 
 Welcome to my corner of the internet, where the code is clean, the bugs are few, and the coffee is strong! ☕
 
