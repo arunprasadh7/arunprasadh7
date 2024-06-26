@@ -1,4 +1,18 @@
-<h2 align="center">Hi 👋! My name is Arun and I'm a Full-Stack developer and Computer Vision Enthusiast.</h2>
+## Hey there! 👋 I'm Arun Prasadh!
+
+### Fullstack Developer Extraordinaire 🌐
+
+Welcome to my corner of the internet, where the code is clean, the bugs are few, and the coffee is strong! ☕
+
+### About Me
+- 🔭 I’m currently working on a top-secret project that may or may not involve world domination (or just a really cool app, you’ll never know).
+- 🌱 Always learning new things, from the latest frontend frameworks to why my plants keep dying (suggestions welcome).
+- 👯 I’m looking to collaborate on anything that doesn’t involve debugging IE11 issues. Seriously, I have standards.
+- 🤔 I’m looking for help with understanding why JavaScript frameworks breed like rabbits. Every time I blink, there’s a new one!
+- 💬 Ask me about fullstack development, custom-built CRMs, Salesforce, and why tabs are better than spaces. (Fight me!)
+- 📫 How to reach me: Carrier pigeons preferred, but GitHub issues work too.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once wrote a function so elegant, even my rubber duck was impressed.
 
 ###
 
