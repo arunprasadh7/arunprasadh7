@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Arun Prasadh!
+##<h2> Hey there! 👋 I'm Arun Prasadh!</h2>
 
 ### Fullstack Developer Extraordinaire 🌐
 
