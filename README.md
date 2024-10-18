@@ -10,10 +10,27 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 - 👯 I’m looking to collaborate on anything that doesn’t involve debugging IE11 issues. Seriously, I have standards.
 - 🤔 I’m looking for help with understanding why JavaScript frameworks breed like rabbits. Every time I blink, there’s a new one!
 - 💬 Ask me about fullstack development, custom-built CRMs, Salesforce, and why tabs are better than spaces. (Fight me!)
-- 📫 How to reach me: Carrier pigeons preferred, but GitHub issues work too.
+- 📫 How to reach me: Carrier pigeons preferred, but GitHub issues work too. If you send a smoke signal, I might just respond... eventually. Just don’t text me while I’m in the zone. My focus is as fragile as my coffee supply.
+- 🎩 Occasionally, I wear a top hat while coding. It doesn’t help my code compile faster, but it does make me feel like a wizard of the code realm.
+- 📈 My life is a series of “It works on my machine. Must be a feature!” moments, punctuated by a lot of coffee and existential dread.
+- 🧙‍♂️ And if you ever find me staring at my screen, don’t worry—I'm just summoning the courage to debug that one piece of code I’m avoiding.
 - ⚡ Fun fact: I once wrote a function so elegant, even my rubber duck was impressed.
+- 🎮 In my free time, I’m probably procrastinating on my projects by getting lost in a video game or trying to solve the mystery of why my code works in dev but not in prod.
 
-### 
+### 🧑‍💻 My Code Playground
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=15F7FF&width=435&lines=const+coolCode+=+()%3D%3E+%7B;+console.log(%22I+love+you+3000+lines+of+code!%22);+%7D)
+
+### 📬 Let’s Get in Touch 
+
+<div align="left">
+  <a href="m.arunprasadh96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/arunprasadh78" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <div align="center">
   <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtNnZueXFlbWJydHVlMHR2YW96aGYxNjE0N3k1ajZ4dzR4MnplNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
@@ -119,20 +136,8 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
 </div>
 
-### 📬 Let’s Get in Touch 
 
-<div align="left">
-  <a href="m.arunprasadh96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="linkedin.com/in/arunprasadh78" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-### 🧑‍💻 My Code Playground
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=15F7FF&width=435&lines=const+coolCode+=+()%3D%3E+%7B;+console.log(%22Hello%2C+GitHub!%22);+%7D)
 
 
 ### 💡 Contribution Analytics
