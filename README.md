@@ -138,6 +138,9 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 ### 🧠 Dev Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![Proficient in React](https://img.shields.io/badge/React-Proficient-blue)
+![Learning Rust](https://img.shields.io/badge/Rust-Learning-orange)
+
 
 
 
