@@ -16,7 +16,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 - 🧙‍♂️ And if you ever find me staring at my screen, don’t worry—I'm just summoning the courage to debug that one piece of code I’m avoiding.
 - ⚡ Fun fact: I once wrote a function so elegant, even my rubber duck was impressed.
 - 🎮 In my free time, I’m probably procrastinating on my projects by getting lost in a video game or trying to solve the mystery of why my code works in dev but not in prod.
-
+<br>
 ### 🧑‍💻 My Code Playground
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=15F7FF&width=435&lines=const+coolCode+=+()%3D%3E+%7B;+console.log(%22Nerds%2C+I+bring+code!%22);+%7D)
@@ -36,6 +36,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 <div align="center">
   <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtNnZueXFlbWJydHVlMHR2YW96aGYxNjE0N3k1ajZ4dzR4MnplNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
+<br>
 
 ### 🛠️ Tools of the Trade
 
