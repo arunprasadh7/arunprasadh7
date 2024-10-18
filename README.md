@@ -19,7 +19,8 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 
 ### 🧑‍💻 My Code Playground
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=15F7FF&width=435&lines=const+coolCode+=+()%3D%3E+%7B;+console.log(%22I+love+you+3000+lines+of+code!%22);+%7D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=15F7FF&width=435&lines=const+coolCode+=+()%3D%3E+%7B;+console.log(%22Nerds%2C+I+bring+code!%22);+%7D)
+
 
 ### 📬 Let’s Get in Touch 
 
