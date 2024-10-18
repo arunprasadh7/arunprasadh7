@@ -133,6 +133,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 
 ### 💡 Contribution Analytics
 ![](https://github-readme-stats.vercel.app/api?username=arunprasadh7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github.com/arunprasadh7/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 🧠 Dev Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
