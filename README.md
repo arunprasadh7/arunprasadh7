@@ -4,7 +4,7 @@
 
 Welcome to my corner of the internet, where the code is clean, the bugs are few, and the coffee is strong! ☕
 
-### About Me
+### 👨‍💻 Who Am I?
 - 🔭 I’m currently working on a top-secret project that may or may not involve world domination (or just a really cool app, you’ll never know).
 - 🌱 Always learning new things, from the latest frontend frameworks to why my plants keep dying (suggestions welcome).
 - 👯 I’m looking to collaborate on anything that doesn’t involve debugging IE11 issues. Seriously, I have standards.
@@ -19,7 +19,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
   <img height="300" width="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRtNnZueXFlbWJydHVlMHR2YW96aGYxNjE0N3k1ajZ4dzR4MnplNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
-### TECH STACK
+### 🛠️ Tools of the Trade
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -119,7 +119,7 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
 </div>
 
-### CONNECT WITH ME
+### 📬 Let’s Get in Touch 
 
 <div align="left">
   <a href="m.arunprasadh96@gmail.com" target="_blank">
@@ -131,10 +131,10 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 </div>
 
 
-# 📊 GitHub Stats:
+### 💡 Contribution Analytics
 ![](https://github-readme-stats.vercel.app/api?username=arunprasadh7&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-### ✍️ Random Dev Quote
+### 🧠 Dev Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
@@ -143,4 +143,3 @@ Welcome to my corner of the internet, where the code is clean, the bugs are few,
 ---
 [![](https://visitcount.itsvg.in/api?id=arunprasadh7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
